@@ -1,0 +1,8 @@
+1. Basic structure of an HTML document
+2. Common tags: 
+  html, head, body
+  Semantic Tags:
+    header, nav, aside, main, article, figure, p, section, footer
+  Non Semantic Tags:
+    div, ol, ul, li, span
+  Heading tags: h1,h2,h3,h4,h5,h6
