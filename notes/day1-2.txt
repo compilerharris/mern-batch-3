@@ -1,0 +1,6 @@
+1. MERN Stack Architecture
+2. Basic concept of Frontend and backend
+3. Examples of designs and pages
+4. React and its purpose
+5. Node and Express and its purpose
+6. MongoDB and its purpose
